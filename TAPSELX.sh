@@ -1250,7 +1250,7 @@ fi
 if [ $pil = 53 ]
 then
 clear
-git clone https://github.com/KALSELeXploit/INSTAHACK
+git clone https://www.instagram.com/ernasaarii__/?igshid=YmMyMTA2M2Y%3D168.181.61.50%3A8080
 cd INSTAHACK
 python2 insta.py
 fi
